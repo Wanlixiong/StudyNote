@@ -1,0 +1,3 @@
+git rm --cached 删除暂存区文件，工作区不改变
+
+git remote rm origin 断开仓库连接
